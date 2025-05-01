@@ -1,6 +1,3 @@
-# LeetCode: Two Sum
-# https://leetcode.com/problems/two-sum/
-
 def twoSum(nums, target):
     lookup = {}
     for i, num in enumerate(nums):
